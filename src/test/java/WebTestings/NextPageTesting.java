@@ -1,4 +1,4 @@
-package NextWebTesting;
+package WebTestings;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class day01_NextPageTesting {
+public class NextPageTesting {
 
 
     public static void main(String[] args) throws InterruptedException {
