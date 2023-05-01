@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class NextTesting {
+public class NextPageTesting {
 
 
     public static void main(String[] args) throws InterruptedException {
